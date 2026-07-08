@@ -54,9 +54,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lina-debs&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lina-devs&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lina-debs&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lina-devs&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -65,7 +65,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=lina-debs&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=lina-devs&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -120,7 +120,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/lina-debs/lina-debs/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/lina-debs/lina-devs/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
