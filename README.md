@@ -4,7 +4,7 @@
 ============================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi,%20I'm%20Deblina!&fontAlign=50&fontAlignY=40&color=0:1a1b26,50:7aa2f7,100:bb9af7&fontColor=c0caf5&animation=fadeIn&fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey,%20Deblina%20here!&fontAlign=50&fontAlignY=40&color=0:1a1b26,50:7aa2f7,100:bb9af7&fontColor=c0caf5&animation=fadeIn&fontSize=50"/>
 </p>
 
 <p align="center">
