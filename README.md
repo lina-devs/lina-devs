@@ -16,37 +16,43 @@
 
 # 🐳 About Me
 
-🎓 B.Tech CSE (AI & ML) Student
+I'm a Computer Science student who enjoys building things, learning new technologies, and occasionally spending far too long debugging a missing semicolon.
 
-💻 Passionate about Artificial Intelligence, Machine Learning and Full-Stack Development.
+🌸 Currently exploring
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Full-Stack Development
+- 📚 Data Structures & Algorithms
+- 💡 Open Source
 
-🌱 Currently learning
-- Python
-- Machine Learning
-- Java
-- Web Development
-- Data Structures & Algorithms
-
-🧋 I enjoy building projects that help me learn something new while improving my problem-solving skills.
-
-📍 India
+Outside coding you'll probably find me
+- 🎧 Listening to music
+- 🎥 Watching anime or web series
+- 🎨 Designing something in Canva
+- ☕ Drinking way too much coffee
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,git,github,vscode,blender" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
 </p>
 
 ---
 
-# 🚀 Currently Working On
+# 🌱 What I'm Up To
 
-- 📚 Strengthening DSA
+ Currently...
+- 📚 Learning DSA
 - 🤖 Exploring Machine Learning
-- 🌐 Building Web Projects
-- 💼 Growing my GitHub Portfolio
+- 🌐 Building projects
+- ✨ Making my GitHub prettier one commit at a time
 
 ---
 
@@ -78,40 +84,24 @@
 
 ---
 
- 
-
-## 🤝 Connect with Me
-
-
+# 🤝 Connect with Me
 
 <p align="center">
-
-  <a href="www.linkedin.com/in/deblina-karmakar-793415378">
-
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-
+  <a href="mailto:linadebs001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="mailto:linadebs001@gmail.com">
-
-   <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-
+   <a href="https://www.linkedin.com/in/deblina-karmakar-793415378">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://www.instagram.com/dxblinaaa">
-
-   <img src="https://skillicons.dev/icons?i=instagram" width="45" />
-
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-</p>
-
-
-
-<p align="center">
-
-  LinkedIn • Gmail • Instagram
-
+  <a href="https://www.pinterest.com/lin4her">
+    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -120,16 +110,19 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/lina-debs/lina-devs/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/lina-devs/lina-devs/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 <p align="center">
-  <i>Code. Learn. Build. Repeat.</i>
+  <i>Still learning, still building, still having fun along the way.</i>
 </p>
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
-```
